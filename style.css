@@ -23,9 +23,6 @@ img {
     margin: 0 auto;
 }
 
-
-/* --------------------------- */
-
 .top__container {
     width: 1600px;
     margin: 0 auto;
@@ -42,9 +39,6 @@ img {
     background-color: #222222;
     border: none;
 }
-
-
-/* hamburger */
 
 #menu__toggle {
     opacity: 0;
@@ -133,9 +127,6 @@ img {
     color: #6f6e6e;
     transition-duration: 0.25s;
 }
-
-
-/* end hamburger */
 
 .logo {
     display: flex;
@@ -282,7 +273,7 @@ span.h2pink {
     font-weight: 400;
     font-size: 14px;
     line-height: 17px;
-    color: #9f9f9f;
+    color: #757575;
     margin-top: 6px;
 }
 
