@@ -290,9 +290,6 @@ span.h2pink {
     flex-direction: column;
 }
 
-
-/*--product card hover image --*/
-
 .prod__image_cont {
     position: relative;
 }
@@ -343,9 +340,6 @@ span.h2pink {
     opacity: 1;
 }
 
-
-/*----*/
-
 .card__text {
     background-color: #f8f8f8;
     padding-left: 16px;
@@ -380,7 +374,7 @@ span.h2pink {
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
-    color: #f16d7f;
+    color: #b4515f;
 }
 
 .all__prod__button {
@@ -562,7 +556,7 @@ span.h2pink {
     display: flex;
     align-items: center;
     color: #FFFFFF;
-    background: #F16D7F;
+    background: #c94859;
     cursor: pointer;
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
